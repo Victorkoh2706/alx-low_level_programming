@@ -1,2 +1,2 @@
-#!/bin/bashb
+#!/bin/bash
 gcc -E $CFILE -oc
